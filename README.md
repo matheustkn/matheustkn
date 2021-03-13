@@ -11,10 +11,6 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode.</strong>
-</p>
-
-<p align="left">
   💌 Want to contact me?: ⤵️
 </p>
 
