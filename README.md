@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>JavaScript, React, PHP, C#, Java, Lua, Squirrel.</strong>
+  🦄 Programming languages: <strong>JavaScript, React, PHP, C#, Java, Lua, Squirrel.</strong>
 </p>
 
 <p align="left">
