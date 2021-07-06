@@ -11,5 +11,5 @@
 </p>
 
 <p align="left">
-  <strong>Discord:</strong> d$ Santi#5134  
+  <strong>Discord:</strong> Santi#0008  
 </p>
