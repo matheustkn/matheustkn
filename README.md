@@ -17,7 +17,7 @@ const santi = {
             js: ["node"],
         },
         devOps: ["AWS", "Docker🐳"],
-        databases: ["MySql", "sqlite"],
+        databases: ["MySQL", "sqlite"],
     },
     architecture: ["Server Architecture", "Progressive web applications", "Single page applications"],
     currentProject: "I am developing Roleplay server (MTA:SA) to Destiny Community",
