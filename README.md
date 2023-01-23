@@ -8,7 +8,7 @@
 ```javascript
 const santi = {
     pronouns: "He" | "Him",
-    code: ["Lua", "Javascript", "C/C++", "Typescript", "Python", "Squirrel", "php"],
+    code: ["Lua", "Javascript", "C/C++", "ReactJS", "Typescript", "Python", "Squirrel", "php"],
     askMeAbout: ["games", "tech", "theories"],
     technologies: {
         backEnd: {
