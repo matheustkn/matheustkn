@@ -9,13 +9,13 @@
 const santi = {
     pronouns: "He" | "Him",
     code: ["Lua", "Javascript", "C/C++", "ReactJS", "Typescript", "Python", "Squirrel", "php"],
-    askMeAbout: ["games", "tech", "theories"],
+    askMeAbout: ["games", "tech", "theories", "astronomy"],
     technologies: {
         backEnd: {
             js: ["node"],
         },
         devOps: ["AWS", "Docker🐳"],
-        databases: ["MySQL", "sqlite"],
+        databases: ["MySQL", "sqlite", "MongoDB"],
     },
     architecture: ["Server Architecture", "Progressive web applications", "Single page applications"],
     currentProject: "I am tech leader in Destiny Community",
