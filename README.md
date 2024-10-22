@@ -15,7 +15,7 @@ const santi = {
             js: ["node"],
         },
         devOps: ["AWS", "Docker🐳"],
-        databases: ["MySQL", "sqlite", "MongoDB"],
+        databases: ["MySQL", "sqlite", "MongoDB", "PostgreSQL" ],
     },
     architecture: ["Server Architecture", "Progressive web applications", "Single page applications"],
     currentProject: "I am tech leader in Destiny Community",
