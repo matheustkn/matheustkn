@@ -18,7 +18,7 @@ const santi = {
         databases: ["MySQL", "sqlite", "MongoDB", "PostgreSQL" ],
     },
     architecture: ["Server Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am tech leader in Destiny Community",
+    currentProject: "",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
